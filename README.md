@@ -1,2 +1,3 @@
 # cloud-ebook-reader
-Host your own private Ebook Reader
+
+Hosting my own private ebook collection in the cloud, so that I can read all my books on any device and any time, without the need of downloading additional software.
